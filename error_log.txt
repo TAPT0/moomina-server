@@ -1,0 +1,5 @@
+Testing LoremFlickr...
+Fetching: https://loremflickr.com/800/600/girl,selfie,fashion
+Status: 302
+Redirects to: /cache/resized/5562_30139158660_ee6ef2ff32_o_800_600_nofilter.jpg
+LoremFlickr WORKS!
